@@ -1,5 +1,5 @@
 
-![[barraconstruction.gif]]
+![[contructionbar.gif]]
 
 This list draws heavily from the work done by [K4rm4ness](https://twitter.com/K4rm4ness) for several years and continues to do. Rather than use Google Forms and Google Sheets, which are both not privacy respecting and not easily search indexable, I've opted to make a static markdown driven site that addresses both issues. 
 
