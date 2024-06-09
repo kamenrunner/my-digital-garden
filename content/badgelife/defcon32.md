@@ -14,3 +14,11 @@ Message https://freeradical.zone/@kamenrunner
 Shitty Add-On (SAO) is a printed circuit board (PCB) meant to be attached to badge-sized PCBs. For more verbose details and history of the standard, please see [Hackaday's article](https://hackaday.com/2019/03/20/introducing-the-shitty-add-on-v1-69bis-standard/)!
 
 </details>
+
+
+| Name | Type | Maker | When | Pickup | Purchasing | Cost | Uses Gen 'AI'? |
+| ---- | ---- | ----- | ---- | ------ | ---------- | ---- | -------------- |
+|      |      |       |      |        |            |      |                |
+|      |      |       |      |        |            |      |                |
+|      |      |       |      |        |            |      |                |
+|      |      |       |      |        |            |      |                |
