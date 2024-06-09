@@ -1,5 +1,6 @@
 
-![[underconstruction.png]]
+![[barraconstruction.gif]]
+This list draws heavily from the work done by [K4rm4ness](https://twitter.com/K4rm4ness) for several years and continues to do. Rather than use Google Forms and Google Sheets, which are both not privacy respecting and not easily search indexable, I've opted to make a static markdown driven site that addresses both issues. 
 
 <details>
 <summary>How do I get my work into the table?</summary>
@@ -19,5 +20,5 @@ Shitty Add-On (SAO) is a printed circuit board (PCB) meant to be attached to bad
 | G0dzilla VS + SAOs   | Both  | [alt_bier](https://defcon.social/@alt_bier) | Now, defcon | Shipable, defcon | [Indiegogo](https://www.indiegogo.com/projects/badgelife-wearable-art-by-altbier-for-dc32), defcon | $60  | Unknown        |
 | H3llo Kitty          | SAO   | [alt_bier](https://defcon.social/@alt_bier) | Now, defcon | defcon           | [Indiegogo](https://www.indiegogo.com/projects/badgelife-wearable-art-by-altbier-for-dc32), defcon | $30  | Unknown        |
 | Cowboys vs Dinosaurs | Badge | [alt_bier](https://defcon.social/@alt_bier) | Now, defcon | Shipable, defcon | [Indiegogo](https://www.indiegogo.com/projects/badgelife-wearable-art-by-altbier-for-dc32), defcon | $60  | Unknown        |
-| Chakra               | Badge | [DC540](https://defcon.social/@dc540)       | defcon      | defcon           | [dc540.org](https://dc540.org/xxx/product/chakra-badge-2024/)<br>defcon                            | $100 | Unknown        |
+| Chakra               | Badge | [DC540](https://defcon.social/@dc540)       | defcon      | defcon           | ~~[dc540.org](https://dc540.org/xxx/product/chakra-badge-2024/)~~<br>defcon                        | $100 | Unknown        |
 
