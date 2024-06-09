@@ -16,9 +16,9 @@ Shitty Add-On (SAO) is a printed circuit board (PCB) meant to be attached to bad
 </details>
 
 
-| Name               | Type | Maker | When | Pickup | Purchasing | Cost | Uses Gen 'AI'? |
-| ------------------ | ---- | ----- | ---- | ------ | ---------- | ---- | -------------- |
-| G0dzilla VS + SAOs |      |       |      |        |            |      |                |
-|                    |      |       |      |        |            |      |                |
-|                    |      |       |      |        |            |      |                |
-|                    |      |       |      |        |            |      |                |
+| Name               | Type | Maker                                       | When        | Pickup           | Purchasing                                                                                         | Cost | Uses Gen 'AI'? |
+| ------------------ | ---- | ------------------------------------------- | ----------- | ---------------- | -------------------------------------------------------------------------------------------------- | ---- | -------------- |
+| G0dzilla VS + SAOs | Both | [alt_bier](https://defcon.social/@alt_bier) | Now, defcon | Shipable, defcon | [Indiegogo](https://www.indiegogo.com/projects/badgelife-wearable-art-by-altbier-for-dc32), defcon | $60  | Unknown        |
+|                    |      |                                             |             |                  |                                                                                                    |      |                |
+|                    |      |                                             |             |                  |                                                                                                    |      |                |
+|                    |      |                                             |             |                  |                                                                                                    |      |                |
