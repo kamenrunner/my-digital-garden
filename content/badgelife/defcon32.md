@@ -15,7 +15,25 @@ Message https://freeradical.zone/@kamenrunner
 Shitty Add-On (SAO) is a printed circuit board (PCB) meant to be attached to badge-sized PCBs. For more verbose details and history of the standard, please see [Hackaday's article](https://hackaday.com/2019/03/20/introducing-the-shitty-add-on-v1-69bis-standard/)!
 
 </details>
+<details>
+<summary>What does "Uses Gen 'AI' column mean?</summary>
 
+Examples of use include:
+- Using for on-badge art
+- Using for social marketing
+- Using for badge related challenges
+- Using for code generation
+
+Examples that are **not** usage:
+- Using Kicad's autorouting
+
+</details>
+<details>
+<summary>Why have a "Uses Gen 'AI' category?</summary>
+
+DEF CON has had an 'Artist' category badge for a number of years. There are those who may wish to distinguish badges that similarly value artists by having all creativity done by humans.
+
+</details>
 
 | Name                                                                               | Type  | Maker                                                       | When         | Pickup           | Purchasing                                                                                         | Cost    | Uses Gen 'AI'? |
 | ---------------------------------------------------------------------------------- | ----- | ----------------------------------------------------------- | ------------ | ---------------- | -------------------------------------------------------------------------------------------------- | ------- | -------------- |
@@ -25,3 +43,4 @@ Shitty Add-On (SAO) is a printed circuit board (PCB) meant to be attached to bad
 | [Chakra](https://dc540.org/xxx/product/chakra-badge-2024/)                         | Badge | [DC540](https://defcon.social/@dc540)                       | defcon       | defcon           | defcon                                                                                             | $100    | Unknown        |
 | Darknet-NG                                                                         | Badge | [Darknet-NG](https://defcon.social/@DarknetNG)              | defcon       | defcon           | defcon                                                                                             | Unknown | Yes            |
 | [SoS](https://www.indiegogo.com/projects/society-of-shenanigans-defcon-32-badge#/) | Badge | [Society of Shenanigans](https://twitter.com/ClubOfRoguery) | defcon       | defcon           | [Indiegogo](https://www.indiegogo.com/projects/society-of-shenanigans-defcon-32-badge#/)           | $50     | Unknown        |
+| DC32                                                                               | Badge | [AND!XOR](https://www.andnxor.com/)                         | June, defcon | Shipable         | Website, defcon                                                                                    | ???     | Yes            |
